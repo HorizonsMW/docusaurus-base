@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Brian Mulwa',
-  tagline: "Dinosaurs are cool, meeh! I don't know about that",
-  favicon: 'img/favicon.ico',
+  title: 'Brian',
+  tagline: "Passion",
+  favicon: 'img/favicon.jpeg',
 
   // Set the production url of your site here
   url: 'https://horizosmw.netlify.app',
@@ -67,7 +67,7 @@ const config = {
         title: 'BMulwa Designs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.jpeg',
         },
         items: [
           {
