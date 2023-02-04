@@ -2,7 +2,7 @@
 /node_modules
 
 # Production
-#build was ignored /build
+/build
 
 # Generated files
 .docusaurus
